@@ -22,14 +22,14 @@ export default function Home() {
             Dhanush G
           </h1>
           <p className="text-sm text-zinc-500 dark:text-zinc-400">
-            Final Year ISE Student | Web Developer
+            Final Year ISE Student | Software Engineer Intern | Platform Development
           </p>
         </div>
 
         {/* Bio */}
         <p className="mt-4 text-center text-zinc-600 dark:text-zinc-400">
           Passionate about building modern web applications using Next.js,
-          Tailwind CSS, and cloud technologies.
+          Tailwind CSS, and cloud technologies (AWS).
         </p>
 
         {/* Stats */}
